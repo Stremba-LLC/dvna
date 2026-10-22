@@ -10,6 +10,7 @@ The application is powered by commonly used libraries such as [express](https://
 
 The application comes with a **developer friendly comprehensive guidebook** which can be used to learn, avoid and fix the vulnerabilities. The guide is available at [docs](/docs) and covers the following
 
+
 1. Instructions for setting up DVNA
 2. Instructions on exploiting the vulnerabilities
 3. Vulnerable code snippets and instructions on fixing vulnerabilities
